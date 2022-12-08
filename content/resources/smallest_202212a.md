@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/smallest_202212a_360p_16_9.mp4
+file: /courses/1-course1-spring-2025/smallest_202212a_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
