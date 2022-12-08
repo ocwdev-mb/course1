@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/smallest_202212_360p_16_9.mp4
+file: /gdrive_uploads/course1/1RN3O1RgxkhVL8XDDStVviLHFWHThviXo/smallest_202212a.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: smallest_202212.mp4
-uid: 08ce96a4-bc36-4347-8a8f-b61f64614051
+title: smallest_202212a.mp4
+uid: f0ac885d-8b3c-4fe4-89da-a967004703d7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
