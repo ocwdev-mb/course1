@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/additive_manufacturing_course_schedule_pdf_r13.pdf
+file: /courses/1-course1-spring-2025/additive_manufacturing_course_schedule_pdf_r13.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

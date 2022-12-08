@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/restaurants.csv
+file: /courses/1-course1-spring-2025/restaurants.csv
 file_type: text/csv
 image_metadata:
   caption: ''

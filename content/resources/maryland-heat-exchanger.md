@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/maryland-heat-exchanger.jpg
+file: /courses/1-course1-spring-2025/maryland-heat-exchanger.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

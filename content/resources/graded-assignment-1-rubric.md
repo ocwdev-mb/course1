@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1/graded-assignment-1-rubric.pdf
+file: /courses/1-course1-spring-2025/graded-assignment-1-rubric.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
